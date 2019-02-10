@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/RPGMode.unity
+  isLoaded: 1
+  isActive: 1
